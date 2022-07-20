@@ -1,0 +1,16 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 5em;
+    width: 100%;
+    padding: 1em;
+    background-color: red;
+}
+
+header a {
+    display: block;
+    height: 3em;
+    width: 3em;
+    background-color: pink;
+}
